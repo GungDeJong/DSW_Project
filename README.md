@@ -1,2 +1,2 @@
 # DSW_Project
-Data Challenge, sebuah kompetisi yang bertujuan untuk menganalisa data dan memberikan solusi atas permasalahan yang diberikan. Memecahkan masalah sebuah perusahaan pupuk yang ingin mempertahankan katalog produknya
+Data Challenge, is a competition that aims to analyze data and provide solutions to given problems. Solving the problem of a fertilizer company wanting to maintain its product catalog
